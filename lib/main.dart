@@ -14,6 +14,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Luvit Task',
       theme: ThemeData(
+        fontFamily: 'Pretendard',
         scaffoldBackgroundColor: const Color(0xff0E0D0D),
         hintColor: const Color(0xff3A3A3A),
         bottomNavigationBarTheme: const BottomNavigationBarThemeData(
