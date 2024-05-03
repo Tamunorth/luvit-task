@@ -8,7 +8,8 @@ design [here](https://www.figma.com/file/mbqh9mT7QsNoPhTpeq8Slf/Luvit---Flutter-
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="screenshots/screenshot_1.png" alt="Screenshot 1" style="margin: 0 10px; width: 45%;">
   <img src="screenshots/screenshot_2.png" alt="Screenshot 2" style="width:45%;">
-  <img src="screenshots/screenshot_3.png" alt="Screenshot 2" style="width:45%;">
+  <img src="screenshots/screenshot_3.png" alt="Screenshot 3" style="width:45%;">
+  <img src="screenshots/screenshot_4.png" alt="Screenshot 4" style="width:45%;">
 </div>
 
 ## Fonts
